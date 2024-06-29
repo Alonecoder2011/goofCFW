@@ -1,4 +1,5 @@
 # goofCFW
+# nop i bricked my steam link yhoh
 The CFW for the steam link box because it was 3 dollars at a garage sale, and i cant afford steam deck :(
 # Download where!1!!!111!!
 release tab /:
